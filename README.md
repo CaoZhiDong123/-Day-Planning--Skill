@@ -24,7 +24,7 @@
 
 ## 安装
 
-将 `军师.md` 放到你的 AI 工具的 skill/命令 目录下即可。
+将 `skill.md` 放到你的 AI 工具的 skill/命令 目录下即可。
 
 ### Claude Code
 
